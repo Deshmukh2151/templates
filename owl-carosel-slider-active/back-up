@@ -1,0 +1,200 @@
+<div class="item">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="card mb-3 card-style-3">
+                                   <div class="card-body">
+                                       <div class="card-profile">
+                                          <div class="d-flex mb-3">
+                                            <img src="./assets/images/png/testimonal/ainara-vergara.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                            <div>
+                                                <h5 class="mb-1">Harrison Phillips</h5>
+                                                <p>Lorem ipsum</p>
+                                            </div>
+                                          </div>
+                                          <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                            eaque excepturi ab. Laboriosam ipsam 
+                                            voluptatem voluptatibus labore quam nihil. 
+                                            Quasi occaecati quos ratione quia aut 
+                                            molestiae velit et. Voluptatem id ea dicta</p>
+                                       </div>
+                                   </div> 
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="card mb-3 card-style-3">
+                                   <div class="card-body">
+                                       <div class="card-profile">
+                                          <div class="d-flex mb-3">
+                                            <img src="./assets/images/png/testimonal/harrison-phillips.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                            <div>
+                                                <h5 class="mb-1">Harrison Phillips</h5>
+                                                <p>Lorem ipsum</p>
+                                            </div>
+                                          </div>
+                                          <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                            eaque excepturi ab. Laboriosam ipsam 
+                                            voluptatem voluptatibus labore quam nihil. 
+                                            Quasi occaecati quos ratione quia aut 
+                                            molestiae velit et. Voluptatem id ea dicta</p>
+                                       </div>
+                                   </div> 
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="card mb-3 card-style-3">
+                                   <div class="card-body">
+                                       <div class="card-profile">
+                                          <div class="d-flex mb-3">
+                                            <img src="./assets/images/png/testimonal/niek-bove.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                            <div>
+                                                <h5 class="mb-1">Harrison Phillips</h5>
+                                                <p>Lorem ipsum</p>
+                                            </div>
+                                          </div>
+                                          <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                            eaque excepturi ab. Laboriosam ipsam 
+                                            voluptatem voluptatibus labore quam nihil. 
+                                            Quasi occaecati quos ratione quia aut 
+                                            molestiae velit et. Voluptatem id ea dicta</p>
+                                       </div>
+                                   </div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                      <div class="row">
+                          <div class="col-md-4">
+                              <div class="card mb-3 card-style-3">
+                                 <div class="card-body">
+                                     <div class="card-profile">
+                                        <div class="d-flex mb-3">
+                                          <img src="./assets/images/png/testimonal/ainara-vergara.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                          <div>
+                                              <h5 class="mb-1">Harrison Phillips</h5>
+                                              <p>Lorem ipsum</p>
+                                          </div>
+                                        </div>
+                                        <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                          eaque excepturi ab. Laboriosam ipsam 
+                                          voluptatem voluptatibus labore quam nihil. 
+                                          Quasi occaecati quos ratione quia aut 
+                                          molestiae velit et. Voluptatem id ea dicta</p>
+                                     </div>
+                                 </div> 
+                              </div>
+                          </div>
+                          <div class="col-md-4">
+                              <div class="card mb-3 card-style-3">
+                                 <div class="card-body">
+                                     <div class="card-profile">
+                                        <div class="d-flex mb-3">
+                                          <img src="./assets/images/png/testimonal/harrison-phillips.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                          <div>
+                                              <h5 class="mb-1">Harrison Phillips</h5>
+                                              <p>Lorem ipsum</p>
+                                          </div>
+                                        </div>
+                                        <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                          eaque excepturi ab. Laboriosam ipsam 
+                                          voluptatem voluptatibus labore quam nihil. 
+                                          Quasi occaecati quos ratione quia aut 
+                                          molestiae velit et. Voluptatem id ea dicta</p>
+                                     </div>
+                                 </div> 
+                              </div>
+                          </div>
+                          <div class="col-md-4">
+                              <div class="card mb-3 card-style-3">
+                                 <div class="card-body">
+                                     <div class="card-profile">
+                                        <div class="d-flex mb-3">
+                                          <img src="./assets/images/png/testimonal/niek-bove.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                          <div>
+                                              <h5 class="mb-1">Harrison Phillips</h5>
+                                              <p>Lorem ipsum</p>
+                                          </div>
+                                        </div>
+                                        <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                          eaque excepturi ab. Laboriosam ipsam 
+                                          voluptatem voluptatibus labore quam nihil. 
+                                          Quasi occaecati quos ratione quia aut 
+                                          molestiae velit et. Voluptatem id ea dicta</p>
+                                     </div>
+                                 </div> 
+                              </div>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="item">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="card mb-3 card-style-3">
+                               <div class="card-body">
+                                   <div class="card-profile">
+                                      <div class="d-flex mb-3">
+                                        <img src="./assets/images/png/testimonal/ainara-vergara.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                        <div>
+                                            <h5 class="mb-1">Harrison Phillips</h5>
+                                            <p>Lorem ipsum</p>
+                                        </div>
+                                      </div>
+                                      <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                        eaque excepturi ab. Laboriosam ipsam 
+                                        voluptatem voluptatibus labore quam nihil. 
+                                        Quasi occaecati quos ratione quia aut 
+                                        molestiae velit et. Voluptatem id ea dicta</p>
+                                   </div>
+                               </div> 
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card mb-3 card-style-3">
+                               <div class="card-body">
+                                   <div class="card-profile">
+                                      <div class="d-flex mb-3">
+                                        <img src="./assets/images/png/testimonal/harrison-phillips.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                        <div>
+                                            <h5 class="mb-1">Harrison Phillips</h5>
+                                            <p>Lorem ipsum</p>
+                                        </div>
+                                      </div>
+                                      <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                        eaque excepturi ab. Laboriosam ipsam 
+                                        voluptatem voluptatibus labore quam nihil. 
+                                        Quasi occaecati quos ratione quia aut 
+                                        molestiae velit et. Voluptatem id ea dicta</p>
+                                   </div>
+                               </div> 
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card mb-3 card-style-3">
+                               <div class="card-body">
+                                   <div class="card-profile">
+                                      <div class="d-flex mb-3">
+                                        <img src="./assets/images/png/testimonal/niek-bove.png" alt="testimonal img" class="img-fluid me-4 rounded-3 card-profile-img">
+                                        <div>
+                                            <h5 class="mb-1">Harrison Phillips</h5>
+                                            <p>Lorem ipsum</p>
+                                        </div>
+                                      </div>
+                                      <p class="mb-0">Nisi cumque in necessitatibus molestiae 
+                                        eaque excepturi ab. Laboriosam ipsam 
+                                        voluptatem voluptatibus labore quam nihil. 
+                                        Quasi occaecati quos ratione quia aut 
+                                        molestiae velit et. Voluptatem id ea dicta</p>
+                                   </div>
+                               </div> 
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+
+
+
+
+
+
+
+                    
